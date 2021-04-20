@@ -1,0 +1,4 @@
+./bluebugger -a -addr <'macaddress'>                                                                                                                                                                                                                               1 ⨯
+zsh: parse error near `\n'
+
+got this when trying to connect to a moto g stylus
